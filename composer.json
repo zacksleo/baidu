@@ -19,11 +19,11 @@
     "symfony/cache": "^4.2",
     "symfony/http-foundation": "^4.2",
     "symfony/psr-http-message-bridge": "^1.1",
-    "illuminate/support": "^5.7",
+    "illuminate/support": "^6.0",
     "easeava/socialite": "^1.0",
     "ext-json": "*",
     "ext-simplexml": "*",
-    "illuminate/config": "^5.7",
+    "illuminate/config": "^6.0",
     "ext-openssl": "*"
   },
   "require-dev": {
